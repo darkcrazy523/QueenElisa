@@ -2,9 +2,32 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: '',
+  SESSION_ID: 'QUEENELISA;;;==QW5cGdjlnV3UnN3YzRNRjWWZ3ZfRTawpUNnBTRmdjTxIVOkx2aJVjSqpGWjklNhlnUGV0apwd=39347030749',
   ALIVE_REACT: '👋',
-  ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
+  ALIVE_MESSAGE: `*`HELLOW IM ALIVE HERE IM DULANJANA RAJAPAKSHA WHATSAPP BOT WELLCOME TO MY DULANJANA RAJAPAKSHA WAHATSAPP ACCOUNT`
+
+𝐖𝐄𝐋𝐂𝐎𝐌𝐄
+ 
+𝐓𝐇𝐈𝐒 𝐈𝐒 𝐀𝐍 𝐀𝐔𝐓𝐎𝐌𝐀𝐃𝐄 𝐁𝐎𝐓
+
+𝐓𝐇𝐑𝐎𝐔𝐆𝐇 𝐓𝐇𝐈𝐒,𝐘𝐎𝐔 𝐂𝐀𝐍 𝐆𝐄𝐓 𝐒𝐎𝐍𝐆𝐒 ,𝐕𝐈𝐃𝐄𝐎𝐒 𝐏𝐇𝐎𝐓𝐎𝐒,𝐀𝐍𝐃 𝐌𝐎𝐑𝐄....⚔
+
+↔↔↔↔↔↔↔↔↔↔
+
+𝗗𝗨𝗟𝗔𝗡𝗝𝗔𝗡𝗔 𝗥𝗔𝗝𝗔𝗣𝗔𝗞𝗦𝗛𝗔 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 ⚔
+🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁
+🍁🍁🍁🍁🍁🍁🍁🍁🍁🍁
+𝙳𝚄𝙻𝙰𝙽𝙹𝙰𝙽𝙰 𝚁𝙰𝙹𝙰𝙿𝙰𝙺𝚂𝙷𝙰
+
+
+▃▃▃▃▃▃▃▃▃▃▃▃▃
+
+
+▒▒▒▒▒▒▒▒▒▒▒▒▒
+
+𝐃𝐔𝐋𝐀𝐍𝐉𝐀𝐍𝐀 𝐑𝐀𝐉𝐀𝐏𝐀𝐊𝐒𝐇𝐀
+
+⃛⃛⃛⃛⃛⃜⃜░░░░░░░░░░░░░*
 
 ⏰ Now time is @time
 📅 Date : @date
@@ -18,15 +41,15 @@ module.exports = {
 ☫ Work Type : @worktype
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
-  ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: '', 
+  ALIVE_MEDIA:'https://telegra.ph/file/c5d32a1282733927ce17a.jpg',
+  MONGODB_URL: 'mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  OWNER_NAME: 'DULANJANA RAJAPAKSHA',
+  OWNER_NUMBER: '94703074393',
+  SUDO: '94755095939',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
@@ -43,7 +66,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   AUTO_REACT: true,
   ONLY_PM_GROUP_MSG_SEND: false,
   AUTO_SEEN_STATUS: true,
-  BOT_OFFLINE: false,
+  BOT_OFFLINE: true,
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
   ANTI_BAD_WORD: false,
